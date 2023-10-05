@@ -1,18 +1,45 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋" />
+</h1>
+
+
 ![logo](https://github.com/Uvesh-Ahmad/Uvesh-Ahmad1/blob/main/LinkedIn%20Background%20Photo.gif)
-<h1 align="center">Hi 👋, I'm Uvesh Ahmad</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uvesh-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="uvesh-ahmad" /> </p>
+ 
+<div align="right"> 
+  <a href="mailto:siddiquiuvesh20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/uvesh-ahmad-a2aa6816a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://uvesh-ahmad.github.io/uvesh.ah/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+
+<h1 align="center"> I'm Uvesh Ahmad</h1>
+
+
+<h3 align="center">A passionate Data Scientistfrom India </h3>
+
+<br/>
+
+<div align="left">
+
 <h3 align="center">In the world of Data Science and Machine Learning, I craft intelligence from Data.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uvesh-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="uvesh-ahmad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uvesh-ahmad" alt="uvesh-ahmad" /></a> </p>
 
-- 🔭 I’m currently working on [Core AI,ML,DL Fields](ML/ DL)
+- 🔭 I’m currently working on [Core AI, ML, DL Fields](ML/ DL)
 
 - 🌱 I’m currently learning **Data Science, AI, ML, DL**
 
 - 👯 I’m looking to collaborate on **On Working**
 
-- 🤝 I’m looking for help with **AI,ML,Researcher Conribute Fields**
+- 🤝 I’m looking for help with **AI,ML,Researcher Contribute Fields**
 
 - 👨‍💻 All of my projects are available at [https://uvesh-ahmad.github.io/uvesh.ah/ (On working)](https://uvesh-ahmad.github.io/uvesh.ah/ (On working))
 
@@ -39,3 +66,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvesh-ahmad&show_icons=true&locale=en" alt="uvesh-ahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvesh-ahmad&" alt="uvesh-ahmad" /></p>
+
+<h3> My Contributions </h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
