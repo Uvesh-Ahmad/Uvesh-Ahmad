@@ -24,7 +24,7 @@
 
 <h3 align="center">A passionate Data Scientistfrom India </h3>
 
-<br/>
+
 
 <div align="left">
 
@@ -66,6 +66,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvesh-ahmad&show_icons=true&locale=en" alt="uvesh-ahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvesh-ahmad&" alt="uvesh-ahmad" /></p>
+
 
 <h3> My Contributions </h3>
   <br>
