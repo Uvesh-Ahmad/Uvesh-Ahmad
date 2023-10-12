@@ -43,7 +43,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uvesh-ahmad.github.io/uvesh.ah/ (On working)](https://uvesh-ahmad.github.io/uvesh.ah/ (On working))
 
-- 📝 I regularly write articles on [Soon (https://uvesh-ahmad.github.io/uvesh.ah/)](Soon (https://uvesh-ahmad.github.io/uvesh.ah/))
+- 📝 I regularly write articles on [Soon (https://uvesh-ahmad.github.io/uvesh.ah/)](https://uvesh-ahmad.github.io/uvesh.ah/)
 
 - 💬 Ask me about **AI, ML, DL Related Fields**
 
