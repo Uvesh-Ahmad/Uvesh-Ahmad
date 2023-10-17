@@ -22,7 +22,7 @@
 <h1 align="center"> I'm Uvesh Ahmad</h1>
 
 
-<h3 align="center">A passionate Data Scientist from India </h3>
+<h3 align="center">A Passionate Data Scientist from India </h3>
 
 
 
